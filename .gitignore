@@ -1,0 +1,8 @@
+*~
+*.swp
+*.do
+*.dsn
+*.ses
+autoroute*/
+.*.fsx*
+.*lock
