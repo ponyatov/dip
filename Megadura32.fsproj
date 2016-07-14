@@ -10,7 +10,7 @@
 	<Document>
 		<LocalLibrary />
 		<Pcb>
-			<File path=".\Megadura32.fsx" isopened="1"/>
+			<File path=".\Megadura32.fsx" isopened="0"/>
 		</Pcb>
 		<ARouteSessions>
 			<Session name="Megadura32" date="2016-07-11 12:14:43" path=".\autoroute_Megadura32_160711121443\">
