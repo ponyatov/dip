@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project xsi:noNamespaceSchemaLocation="Project.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Version current="1"/>
+	<Format>Project</Format>
+	<Header>
+		<Program name="TopoR" version="6.2"/>
+		<GUID>{6BE4234D-7EE4-4A0B-B020-FD58D73B30A1}</GUID>
+		<Annotation>Project file</Annotation>
+	</Header>
+	<Document>
+		<LocalLibrary />
+		<Pcb>
+			<File path=".\BTino32.fsx" isopened="1"/>
+		</Pcb>
+		<ARouteSessions>
+			<Session name="BTino32" date="2016-07-14 17:48:13" path=".\autoroute_BTino32_160714174813\">
+			<File path=".\autoroute_BTino32_160714174813\BTino32_69-0s.fsb" isopened="0"/>
+			</Session>
+		</ARouteSessions>
+	</Document>
+</Project>
